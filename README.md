@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dharmitviradia
-- 👀 I’m interested in Full_Stack Development and Software Engineering 
-- 🌱 I’m currently learning React.js and AWS
+- 👀 I’m interested in Full-Stack Development and Software Engineering 
+- 🌱 I’m currently learning React.js, AWS and Kubernetes 
 - 📫 How to reach me dharmit.viradia.me
 
 <!---
